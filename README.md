@@ -78,11 +78,12 @@ Three types of models were explored, and the best model was selected by comparin
 ![Logistic Regression](img/modellogistic.png)
 2. Random Forest
 ![Random Forest](img/randomforest.png)
-Display the most important features.
-![Random Forest](img/featureimportance.png)
 
 3. XGBoost
 ![XGBoost](img/xgboost.png)
+
+Display the most important features.
+![feature_importance](img/feature_importance.png)
 
 ## 4. Conclusion
 From the result, it showes that the XGB model achieved the highest accuracy at 85.8%, outperforming both Logistic Regression and Random Forest.
