@@ -1,5 +1,5 @@
 # Weather Prediction - Rain in Australia 
-![image.png](https://github.com/Aimee-Le/weather_analysis_prediction/blob/main/weather.png)
+![image.png](img/weather.png)
 
 ## Project Overview
 ### Data Source
