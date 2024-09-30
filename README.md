@@ -3,7 +3,7 @@
 
 ## Project Overview
 ### Data Source
-The data used in this project was downloaded from the Kaggle
+The data used in this project was downloaded from Kaggle.
 
 - Link dataset: [Australian weather dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)
 
